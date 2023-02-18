@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaur-rajdeep
-- 👀 I’m interested in adobephotoshop, python, cyber security.
-- 🌱 I’m currently learning dsa and starting with full stack development.
+- 👀 I’m interested in adobephotoshop, python, cyber security and  web development.
 - 📫 You can reach me at www.linkedin.com/in/rajdeep-kaur-831047218
 
 <!---
