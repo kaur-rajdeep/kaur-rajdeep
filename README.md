@@ -42,4 +42,4 @@ You can click the Preview link to take a look at your changes.
  
 </p>
 <h1>Connect Here!</h1>
- 
+ <a href="http://www.linkedin.com/in/rajdeep-kaur-831047218"><img src="image.png" width="45px" height="45px"/></a>
