@@ -33,6 +33,13 @@ You can click the Preview link to take a look at your changes.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kaur-rajdeep)](https://github.com/kaur-rajdeep)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaur-rajdeep&layout=compact)](https://github.com/kaur-rajdeep)
+<p align="center">
+ <h1>Stats</h1>
+ 
+ ![kaur-rajdeep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaur-rajdeep&theme=blueberry&hide_border=true)
+ 
+![kaur-rajdeep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaur-rajdeep&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+ 
+</p>
+<h1>Connect Here!</h1>
+ 
