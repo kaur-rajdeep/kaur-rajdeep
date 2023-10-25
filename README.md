@@ -7,7 +7,7 @@ kaur-rajdeep/kaur-rajdeep is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="RAJDEEP.png" alt=”my banner”>
+<img src="banner.png" alt=”my banner”>
 </p>
 
 <h1>Technical Skills</h1>
